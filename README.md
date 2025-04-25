@@ -20,9 +20,12 @@
 <p>Link with me :</p>
 <ul><li>Telegram : https://t.me/Abu_Abdurahman45 </li>
 <li>Linkedin : www.linkedin.com/in/abduselam-ibrahim-62a0a6345</li>
-<li>Email : 
-[abduselamibrahim85@gmail.com](mailto : abduselamibrahim85@gmail.com) </li>
 </ul>
+<p>If you have any question , you can use :</p>
+
+   [Email Me](mailto:abduselamibrahim85@gmail.com)
+   
+
 ###
 
 <div align="left">
