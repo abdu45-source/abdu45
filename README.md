@@ -15,8 +15,13 @@
 
 ###
 
-<p align="left">I learnt basic programming languages such as C++, python, java, c#.<br>And I  have a basic understanding about HTML, CSS, JavaScript and php.</p>
+<p align="left">I have basic understanding about some programming languages such as C++, python, java, c#.<br>And I  have a basic understanding about HTML, CSS, JavaScript and php.</p>
 
+<p>Link with me :</p>
+<ul><li>Telegram : @Abu_Abdurahman</li>
+<li>Linkedin : www.linkedin.com/in/abduselam-ibrahim-62a0a6345</li>
+<li>Email : abduselamibrahim85@gmail.com </li>
+<li></li></ul>
 ###
 
 <div align="left">
