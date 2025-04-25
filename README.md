@@ -11,16 +11,16 @@
 
 ###
 
-<p align="left">📚 I'm currently learning website and mobile app development and photo & video editing<br>🎯 Goals: I want to be an advance website and mobile app developer<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm currently learning website and mobile app development and photo & video editing<br>🎯 Goals: I want to be an advance website and mobile app developer<br></p>
 
 ###
 
 <p align="left">I have basic understanding about some programming languages such as C++, python, java, c#.<br>And I  have a basic understanding about HTML, CSS, JavaScript and php.</p>
 
 <p>Link with me :</p>
-<ul><li>Telegram : @Abu_Abdurahman</li>
+<ul><li>Telegram : https://t.me/Abu_Abdurahman45 </li>
 <li>Linkedin : www.linkedin.com/in/abduselam-ibrahim-62a0a6345</li>
-<li>Email : abduselamibrahim85@gmail.com </li>
+<li>Email : <href a = "abduselamibrahim85@gmail.com">email.abdu </href> </li>
 <li></li></ul>
 ###
 
