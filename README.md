@@ -21,7 +21,7 @@
 <ul><li>Telegram : https://t.me/Abu_Abdurahman45 </li>
 <li>Linkedin : www.linkedin.com/in/abduselam-ibrahim-62a0a6345</li>
 <li>Email : 
-[abduselamibrahim85@gmail.com](abduselamibrahim85@gmail.com) </li>
+[abduselamibrahim85@gmail.com](mailto : abduselamibrahim85@gmail.com) </li>
 </ul>
 ###
 
