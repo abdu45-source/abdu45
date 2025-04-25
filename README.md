@@ -20,8 +20,9 @@
 <p>Link with me :</p>
 <ul><li>Telegram : https://t.me/Abu_Abdurahman45 </li>
 <li>Linkedin : www.linkedin.com/in/abduselam-ibrahim-62a0a6345</li>
-<li>Email : <a href = "abduselamibrahim85@gmail.com"> Touch me </a> </li>
-<li></li></ul>
+<li>Email : 
+[abduselamibrahim85@gmail.com](abduselamibrahim85@gmail.com) </li>
+</ul>
 ###
 
 <div align="left">
