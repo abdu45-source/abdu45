@@ -1,90 +1,62 @@
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Abduselam Ibrahim, I'm from Bahir Dar University.</p>
+<h1 align="left">Hello there, I'm Abduselam Ibrahim! 👋</h1>
 
 ###
 
-<p align="left">Hello World! I'm Abduselam, an IT student at Bahir Dar University diving into the world of web and mobile app development. When I'm not coding, you'll find me editing photos and videos.</p>
+<p align="left">I'm a passionate 4th-year IT student at Bahir Dar University, with a strong focus on crafting impactful web and mobile applications.</p>
 
 ###
 
-<p align="left">📚 I'm currently learning website and mobile app development and photo & video editing<br>🎯 Goals: I want to be an advance website and mobile app developer<br></p>
+<p align="left">When I'm not immersed in code, you'll find me expressing my creativity through photo and video editing.</p>
 
 ###
 
-<p align="left">I have basic understanding about some programming languages such as C++, python, java, c#.<br>And I  have a basic understanding about HTML, CSS, JavaScript and php.</p>
-
-<p>Link with me :</p>
-<ul><li>Telegram : https://t.me/Abu_Abdurahman45 </li>
-<li>Linkedin : www.linkedin.com/in/abduselam-ibrahim-62a0a6345</li>
-</ul>
-<p>If you have any question , you can use :</p>
-
-   [Email Me](mailto:abduselamibrahim85@gmail.com)
-   
+<p align="left">📚 <strong>My Learning Journey:</strong> I am actively deepening my expertise in modern web and mobile app development, with a particular emphasis on the React ecosystem (React.js, Next.js) and robust backend database management (MySQL).</br>🎯 <strong>My Ambition:</strong> To become a highly proficient and innovative Full-Stack Web and Mobile App Developer.</p>
 
 ###
+
+<p align="left">I possess a solid foundational understanding of core programming languages including C++, Python, Java, and C#. My practical web development skills encompass HTML, CSS, JavaScript, and PHP. Crucially, I'm gaining hands-on experience with **React.js** for dynamic UIs, **Next.js** for full-stack web applications, and **MySQL** for efficient database solutions.</p>
+
+---
+
+<h3 align="left">🛠️ Technologies & Tools I Work With:</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo"  /> 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="40" alt="zig logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-original.svg" height="40" alt="zend logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="Flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yunohost/yunohost-original.svg" height="40" alt="yunohost logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Adobe Photoshop logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="40" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-
-
-<img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab logo"  />
 </div>
 
+---
+
+<h3 align="left">🌐 Connect with Me:</h3>
+<ul>
+  <li>Telegram: <a href="https://t.me/Abu_Abdurahman45">Abu_Abdurahman45</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/abduselam-ibrahim-62a0a6345">Abduselam Ibrahim</a></li>
+  <li>Have a question or project? <a href="mailto:abduselamibrahim85@gmail.com">Email Me!</a></li>
+</ul>
