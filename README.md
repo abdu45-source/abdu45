@@ -60,3 +60,15 @@
   <li>LinkedIn: <a href="https://www.linkedin.com/in/abduselam-ibrahim-62a0a6345">Abduselam Ibrahim</a></li>
   <li>Have a question or project? <a href="mailto:abduselamibrahim85@gmail.com">Email Me!</a></li>
 </ul>
+
+---
+
+<h3 align="left">📎 Share Files or Documents:</h3>
+
+<p align="left">
+  Want to send me a file, resume, brief, or any document? You can attach files directly via email:
+  <br/><br/>
+  📧 <a href="mailto:abduselamibrahim85@gmail.com?subject=File%20Attachment">Send me a file by email</a>
+  <br/><br/>
+  Supported formats include PDFs, images, Word documents, and more — just attach them to your email!
+</p>
