@@ -59,4 +59,5 @@
   <li>Telegram: <a href="https://t.me/Abu_Abdurahman45">Abu_Abdurahman45</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/abduselam-ibrahim-62a0a6345">Abduselam Ibrahim</a></li>
   <li>Have a question or project? <a href="mailto:abduselamibrahim85@gmail.com">Email Me!</a></li>
+  <li>📄 <a href="resume.md">View My Resume</a></li>
 </ul>
