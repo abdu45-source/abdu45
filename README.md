@@ -60,3 +60,14 @@
   <li>LinkedIn: <a href="https://www.linkedin.com/in/abduselam-ibrahim-62a0a6345">Abduselam Ibrahim</a></li>
   <li>Have a question or project? <a href="mailto:abduselamibrahim85@gmail.com">Email Me!</a></li>
 </ul>
+
+---
+
+<h3 align="left">📎 Share a File:</h3>
+
+<p align="left">Yes, you can share files with me! Here's how:</p>
+<ul>
+  <li><strong>Email:</strong> Attach your file directly to an email at <a href="mailto:abduselamibrahim85@gmail.com">abduselamibrahim85@gmail.com</a></li>
+  <li><strong>Telegram:</strong> Send files (documents, images, archives, etc.) via <a href="https://t.me/Abu_Abdurahman45">Telegram</a></li>
+  <li><strong>GitHub:</strong> Open an <a href="https://github.com/abdu45-source/abdu45/issues">issue</a> or submit a <a href="https://github.com/abdu45-source/abdu45/pull">pull request</a> to contribute files to this repository</li>
+</ul>
