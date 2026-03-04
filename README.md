@@ -54,6 +54,25 @@
 
 ---
 
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdu45-source&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdu45-source&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top languages" />
+</div>
+
+---
+
+<h3 align="left">🐍 My GitHub Contributions:</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdu45-source/abdu45/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdu45-source/abdu45/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/abdu45-source/abdu45/output/github-snake.svg" />
+</picture>
+
+---
+
 <h3 align="left">🌐 Connect with Me:</h3>
 <ul>
   <li>Telegram: <a href="https://t.me/Abu_Abdurahman45">Abu_Abdurahman45</a></li>
