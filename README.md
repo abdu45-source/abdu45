@@ -60,3 +60,10 @@
   <li>LinkedIn: <a href="https://www.linkedin.com/in/abduselam-ibrahim-62a0a6345">Abduselam Ibrahim</a></li>
   <li>Have a question or project? <a href="mailto:abduselamibrahim85@gmail.com">Email Me!</a></li>
 </ul>
+
+---
+
+<h3 align="left">📄 Resume & Documents:</h3>
+<ul>
+  <li><a href="https://github.com/abdu45-source/abdu45/raw/main/files/resume.pdf">📥 Download My Resume (PDF)</a></li>
+</ul>
