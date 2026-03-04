@@ -54,6 +54,18 @@
 
 ---
 
+<h3 align="left">📄 Resume / CV:</h3>
+
+<p align="left">
+  <a href="./resume/Abduselam_Ibrahim_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
+  </a>
+  <br/>
+  <em>If the download link is unavailable, feel free to <a href="mailto:abduselamibrahim85@gmail.com">email me</a> to request a copy.</em>
+</p>
+
+---
+
 <h3 align="left">🌐 Connect with Me:</h3>
 <ul>
   <li>Telegram: <a href="https://t.me/Abu_Abdurahman45">Abu_Abdurahman45</a></li>
